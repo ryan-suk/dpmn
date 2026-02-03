@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bc1a9834-1057-4fd6-8ace-919c94cbcfd1" width="200" alt="DPMN Logo"/>
+  <img width="400" alt="DecisionFlow_logo_stacked" src="https://github.com/user-attachments/assets/77ecca17-e2d2-4b60-b2fd-e0c15767c5a2" />
 </p>
+
 
 # DPMN-Driven Financial & Operational Projections for At-Home HPV Self-Sampling Adoption 
 
